@@ -14,3 +14,21 @@ Inundaciones relacionadas con la falla de infraestructura hidráulica: diseño e
 Actualmente las inundaciones se detectan a través de una alerta hidrometeorológica la cual está compuesta por dos puestos centrales de registro y análisis y por algunas estaciones de medición de lluvia y del nivel de agua encauces. El puesto central se encarga de interrogar a cada una de las estaciones remotas a intervalos fijos de10 minutos, así como de almacenar la información. Los análisis se comparan con un umbral preestablecido, para determinar si se activa o no la alarma local quedé aviso al personal encargado de la supervisión del sistema, presente en pantalla resultados y generé gráficas, con el objeto de mantener informadas del fenómeno meteorológico a otras instituciones.
 
 
+# Objetivo
+Determinar si existe una relación entre la precipitación y la latitud, longitud y elevación de una base de datos de Metro Manila.
+
+# Hipótesis
+Se espera que la elevación, la latitud y longitud sea factores con una alta correlación con los niveles de precipitación, permitiendo determinar una posible correlación entre estos factores para prevenir posibles inundaciones a causa de una elevación de precipitación.
+
+# Metodología 
+Localización del área de estudio 
+En general Filipinas se comprende de once grandes islas que comprenden el 95% del territorio y mas de siete mil islas e islotes. El clima de las Filipinas es tropical, con dos estaciones una seca y  otra lluviosa, situando a los meses de junio a diciembre como las épocas de los tifones. Específicamente Manila está situada en la costa occidental de las islas de Luzón, en la desembocadura del rio pasing, abierta en la bahía de Manila. Manila cuenta con un aproximado de 10.330.100 habitantes.
+
+Extracción de la base de datos 
+Conjunto de datos obtenidos de kaggle
+
+Estadísticos 
+Una vez que se localizo la base de datos con un total 3511  registros sobre precipitación, longitud, latitud y elevación, se realizó una limpieza de los datos eliminando 10 datos de la base de datos ya que todos los factores estaban en cero y generaba que el comportamiento de los datos fuera no normal. Se continuo con la medición de las correlaciones entre las variables mediante la correlación de Pearson, para determinar si una variable influye en el comportamiento de la otra. Se continuo con un análisis de correlación lineal y determinación de la ecuación para predecir el comportamiento de las variables; así como, la representación gráfica de los datos a través de histogramas y graficas de correlación lineal. El sistema r fue la herramienta por la cual se realizó los análisis estadísticos.
+
+# Resultados 
+Se observa que en la figura 1 los valores de la longitud y precipitación tiene una alta correlación, sin embargo, lo valores de latitud y elevación no muestran una correlación inicial con la precipitación. 
