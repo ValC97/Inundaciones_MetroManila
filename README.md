@@ -31,7 +31,7 @@ Estadísticos
 Una vez que se localizo la base de datos con un total 3511  registros sobre precipitación, longitud, latitud y elevación, se realizó una limpieza de los datos eliminando 10 datos de la base de datos ya que todos los factores estaban en cero y generaba que el comportamiento de los datos fuera no normal. Se continuo con la medición de las correlaciones entre las variables mediante la correlación de Pearson, para determinar si una variable influye en el comportamiento de la otra. Se continuo con un análisis de correlación lineal y determinación de la ecuación para predecir el comportamiento de las variables; así como, la representación gráfica de los datos a través de histogramas y graficas de correlación lineal. El sistema r fue la herramienta por la cual se realizó los análisis estadísticos.
 
 # Resultados 
-Se observa que en la figura 1 los valores de la longitud y precipitación tiene una alta correlación, sin embargo, lo valores de latitud y elevación no muestran una correlación inicial con la precipitación. 
+Se observa que en la figura 1 los valores de la longitud y precipitación tiene una alta correlación, sin embargo, lo valores de latitud y elevación no muestran una correlación inicial con la precipitación.
 
-https://raw.githubusercontent.com/ValC97/Inundaciones_filipinas/Rplot01.PNG
+![github-small](imagenes/Rplot01.png)
 
