@@ -33,5 +33,5 @@ Una vez que se localizo la base de datos con un total 3511  registros sobre prec
 # Resultados 
 Se observa que en la figura 1 los valores de la longitud y precipitación tiene una alta correlación, sin embargo, lo valores de latitud y elevación no muestran una correlación inicial con la precipitación.
 
-![github-small](imagenes/Rplot01.png)
+![github-small](images/Rplot01.png)
 
