@@ -32,3 +32,6 @@ Una vez que se localizo la base de datos con un total 3511  registros sobre prec
 
 # Resultados 
 Se observa que en la figura 1 los valores de la longitud y precipitación tiene una alta correlación, sin embargo, lo valores de latitud y elevación no muestran una correlación inicial con la precipitación. 
+
+https://raw.githubusercontent.com/ValC97/Inundaciones_filipinas/Rplot01.PNG
+
