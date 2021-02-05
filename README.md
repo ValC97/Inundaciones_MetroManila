@@ -22,12 +22,15 @@ Se espera que la elevación, la latitud y longitud sea factores con una alta cor
 
 # Metodología 
 Localización del área de estudio 
+
 En general Filipinas se comprende de once grandes islas que comprenden el 95% del territorio y mas de siete mil islas e islotes. El clima de las Filipinas es tropical, con dos estaciones una seca y  otra lluviosa, situando a los meses de junio a diciembre como las épocas de los tifones. Específicamente Manila está situada en la costa occidental de las islas de Luzón, en la desembocadura del rio pasing, abierta en la bahía de Manila. Manila cuenta con un aproximado de 10.330.100 habitantes.
 
 Extracción de la base de datos 
+
 Conjunto de datos obtenidos de kaggle
 
 Estadísticos 
+
 Una vez que se localizo la base de datos con un total 3511  registros sobre precipitación, longitud, latitud y elevación, se realizó una limpieza de los datos eliminando 10 datos de la base de datos ya que todos los factores estaban en cero y generaba que el comportamiento de los datos fuera no normal. Se continuo con la medición de las correlaciones entre las variables mediante la correlación de Pearson, para determinar si una variable influye en el comportamiento de la otra. Se continuo con un análisis de correlación lineal y determinación de la ecuación para predecir el comportamiento de las variables; así como, la representación gráfica de los datos a través de histogramas y graficas de correlación lineal. El sistema r fue la herramienta por la cual se realizó los análisis estadísticos.
 
 # Resultados 
