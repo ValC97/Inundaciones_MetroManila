@@ -38,6 +38,7 @@ Se observa que, entre los valores de latitud, elevación, altura_inundación no 
 ![github-small](Images/plot_zoom.png)
 
 Figura 1: Análisis multivariado de datos de latitud, longitud, altura de inundación, altura respecto nivel de mar y precipitación de la región metro manila.
+
 ![github-small](Images/cuadro1.png)
 ![github-small](Images/manila.png)
 
