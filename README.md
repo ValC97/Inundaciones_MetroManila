@@ -35,7 +35,7 @@ Se observa en la imagen 1, que latitud y longitud muestra datos en los extremos 
 Se observa que, entre los valores de latitud, elevación, altura_inundación no hay una correlación directa con precipitación, sin embargo, en la imagen 1 se puede demostrar como en el caso de Metro Manila más allá de su ubicación y condiciones geográficas las cuales lo vuelven vulnerable a inundaciones, las condiciones de infraestructura y sistema de drenajes podría jugar un papel importante para poder evitar las inundaciones en las zonas bajas. Ya que a pesar de que los niveles de precipitación elevan conforme la altura el destino final del encause es en las bajas de Metro Manila siendo estas las más vulnerables a sufrir inundaciones y por ende es donde esta el riego latente de este fenómeno como se observa en la imagen dos. 
 
 
-![github-small](Images/Rplot01.png)
+![github-small](Images/plot_zoom.png)
 
 Figura 1: Análisis multivariado de datos de latitud, longitud, altura de inundación, altura respecto nivel de mar y precipitación de la región metro manila.
 ![github-small](Images/cuadro1.png)
