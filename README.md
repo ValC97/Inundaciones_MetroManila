@@ -48,5 +48,9 @@ Figura 1: Análisis multivariado de datos de latitud, longitud, altura de inunda
 Figura 2: Mapa de riesgo de Las Philipinas y Puerto Manila.
 
 
+![github-small](Images/manila3.png) ![github-small](Images/manila4.png)
+Figura 3: Mapa de puntos de muestreo de datos.
+
+
 
 
