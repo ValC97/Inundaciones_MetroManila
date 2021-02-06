@@ -53,4 +53,9 @@ Figura 3: Mapa de puntos de muestreo de datos.
 
 
 
+# Anexos
+
+![github-small](Images/plot_2.png)
+
+
 
